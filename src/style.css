@@ -3,7 +3,21 @@ body {
   color: black;
 }
 
+h1 {
+  text-align: center;
+}
+
 ul li a {
   display: inline-block;
+  color: black;
+  list-style-type: none;
+}
+
+img {
+  display: block;
+}
+
+a {
+  display: block;
   color: black;
 }
