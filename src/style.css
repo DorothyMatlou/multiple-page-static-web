@@ -1,0 +1,9 @@
+body {
+  background-color: aqua;
+  color: black;
+}
+
+ul li a {
+  display: inline-block;
+  color: black;
+}
